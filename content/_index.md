@@ -47,10 +47,11 @@ sections:
           company: University College London
           company_url: ''
           company_logo: 'UCL_logo'
-          location: London, UK
+          location: Remote
           date_start: '2021-01-01'
           date_end: '2021-05-15'
-          description: Worked on an empirical study of neural link predictors for node classification.
+          description:
+
 
         - title: Research Intern
           company: Facebook AI Research
@@ -59,7 +60,7 @@ sections:
           location: London, UK
           date_start: '2019-06-01'
           date_end: '2019-09-20'
-          description: Worked on a low-resource classificator for text.
+          description:
 
         - title: Machine Learning Researcher
           company: Laife Reply
@@ -68,7 +69,7 @@ sections:
           location: Milan, Italy
           date_start: '2018-03-12'
           date_end: '2018-09-22'
-          description: Worked on breast cancer detection.
+          description: 
     design:
       columns: '2'
   #- block: accomplishments
