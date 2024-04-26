@@ -36,4 +36,4 @@ tags: [Temporal Knowledge Graphs]
 categories: [Research]
 ---
 Did you know a simple recurrency baseline is enough to beat complex state of the
-art methods for temporal knowledge graph forecasting? If not, you should check our upcoming IJCAI paper! Shout out to Julia for driving this work!
+art methods for temporal knowledge graph forecasting? Check our upcoming IJCAI paper! Shout out to Julia's hard work!!

@@ -46,7 +46,7 @@ featured: True
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2404.16726'
 url_code: 'https://github.com/nec-research/recurrency_baseline_tkg'
 url_dataset: ''
 url_poster: ''
@@ -76,4 +76,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-We propose a temporal knowledge graph baseline based on the simple principle of recurrency. Surprisingly, a simple approach like this beats state of the art methods based on representation learning on 3 out of 5 commonly used datasets! 
+We propose a temporal knowledge graph baseline based on the simple principle of recurrency. Surprisingly, a simple approach like this beats state of the art methods based on representation learning on 3 out of 5 commonly used datasets!
