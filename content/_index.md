@@ -31,13 +31,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Research Scientist
+          company: NEC Laboratories Europe
+          company_url: ''
+          company_logo: 'NEC_logo'
+          location: Heidelberg, DE
+          date_start: '2024-07-01'
+          date_end: ''
         - title: Research Scientist
           company: NEC Laboratories Europe
           company_url: ''
           company_logo: 'NEC_logo'
           location: Heidelberg, DE
           date_start: '2022-01-01'
-          date_end: ''
+          date_end: '2024-06-30'
 #          description: |2-
 #              Responsibilities include:
 #              * Analysing
@@ -69,7 +76,7 @@ sections:
           location: Milan, Italy
           date_start: '2018-03-12'
           date_end: '2018-09-22'
-          description: 
+          description:
     design:
       columns: '2'
   #- block: accomplishments

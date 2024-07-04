@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-Federico Errica received his PhD in Computer Science from the University of Pisa, supervised by [Alessio Micheli](http://pages.di.unipi.it/micheli/) and [Davide Bacciu](http://pages.di.unipi.it/bacciu/). He is now a Research Scientist at [NEC Laboratories Europe GmbH](https://www.neclab.eu/). His research interests include deep probabilistic models for graphs, neural networks and hybrid architectures.
+Federico Errica received his PhD in Computer Science from the University of Pisa, supervised by [Alessio Micheli](http://pages.di.unipi.it/micheli/) and [Davide Bacciu](http://pages.di.unipi.it/bacciu/). He is now a Senior Research Scientist at [NEC Laboratories Europe GmbH](https://www.neclab.eu/). His research interests include deep probabilistic models for graphs, neural networks and hybrid architectures.
 
 {{< icon name="download" pack="fas" >}} Download: {{< staticref "uploads/Bayesian_Deep_Learning_for_Graphs_PhD_Thesis_Federico_Errica.pdf" "newtab" >}}PhD thesis{{< /staticref >}}
 
