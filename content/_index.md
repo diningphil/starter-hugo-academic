@@ -32,12 +32,19 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Senior Research Scientist
+          company: NEC Italia
+          company_url: ''
+          company_logo: 'NEC_logo'
+          location: Milan (Remote)
+          date_start: '2024-10-01'
+          date_end: ''
+        - title: Senior Research Scientist
           company: NEC Laboratories Europe
           company_url: ''
           company_logo: 'NEC_logo'
           location: Heidelberg, DE
           date_start: '2024-07-01'
-          date_end: ''
+          date_end: '2024-09-30'
         - title: Research Scientist
           company: NEC Laboratories Europe
           company_url: ''
